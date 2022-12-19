@@ -17,7 +17,7 @@
     
 - summary: |
     Удаление товара из "Корзины"
-  status: pass
+  status: fail
     
 - summary: |
     Поиск товара по брендам
@@ -25,7 +25,7 @@
     
 - summary: |
     Поиск товара по категориям
-  status: pass
+  status: fail
     
 - summary: |
     Поиск товара по цене
@@ -37,7 +37,7 @@
     
 - summary: |
     Просмотр товаров на других страницах
-  status: pass
+  status: fail
     
 - summary: |
     Просмотр фотографий выбраного товара
