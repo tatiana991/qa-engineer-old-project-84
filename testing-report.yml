@@ -1,0 +1,37 @@
+---
+- summary: |
+    Изменение языка интерфейса на сайте с Английского на Русский
+  status: fail
+    
+ - summary: |
+    Оформление заказа на сайте
+  status: pass
+    
+- summary: |
+    Удаление товара из "Корзины"
+  status: pass
+    
+- summary: |
+    Поиск товара по брендам
+  status: fail
+    
+- summary: |
+    Поиск товара по категориям
+  status: pass
+    
+- summary: |
+    Поиск товара по цене
+  status: fail
+    
+- summary: |
+    Проверка поисковой строки
+  status: fail
+    
+- summary: |
+    Просмотр товаров на других страницах
+  status: pass
+    
+- summary: |
+    Просмотр фотографий выбраного товара
+  status: fail
+     #git commit #git push
